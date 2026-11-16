@@ -1,0 +1,73 @@
+:root {
+  /* Paleta cromática: evolução editorial quente do Espaço Arte-Ciência */
+  --color-bg-primary: #FAF6F0;
+  --color-bg-elevated: #FFFFFF;
+  --color-bg-warm: #F3EBE0;
+  --color-bg-warm-subtle: #F7F1E8;
+  --color-bg-dark: #1C1917;
+  --color-bg-dark-elevated: #292524;
+
+  /* Textos com contraste elevado (WCAG 2.2 AA/AAA) */
+  --color-text-primary: #1C1917;    /* Contraste ~16.2:1 sobre #FAF6F0 */
+  --color-text-secondary: #443E38;  /* Contraste ~9.3:1 sobre #FAF6F0 */
+  --color-text-muted: #5C534A;      /* Contraste ~6.4:1 sobre #FAF6F0 */
+  --color-text-on-dark: #FAF6F0;
+  --color-text-muted-on-dark: #D6CBC0;
+
+  /* Laranja institucional ajustado para acessibilidade em botões e links */
+  --color-brand-primary: #9E3E0E;   /* Contraste 6.2:1 sobre #FAF6F0 e 6.8:1 com #FFFFFF */
+  --color-brand-hover: #7C2F09;     /* Contraste 8.5:1 com #FFFFFF */
+  --color-brand-accent: #C85A17;    /* Usado para detalhes decorativos e bordas */
+  --color-brand-soft: #F9E6D8;      /* Fundo suave para tags e avisos */
+  --color-brand-border: #DFBFA8;
+
+  /* Símbolo solar e estados */
+  --color-solar-crimson: #C62E26;
+  --color-whatsapp-bg: #1B5E20;     /* Contraste 7.8:1 com #FFFFFF */
+  --color-whatsapp-hover: #124116;
+  --color-status-open-bg: #E8F3EA;
+  --color-status-open-text: #1B5E20;
+  --color-status-past-bg: #EAE5DF;
+  --color-status-past-text: #443E38;
+
+  /* Bordas e sombras discretas */
+  --color-border: #E2D7C8;
+  --color-border-strong: #C9B9A6;
+  --shadow-sm: 0 2px 8px rgba(28, 25, 23, 0.05);
+  --shadow-md: 0 8px 24px rgba(28, 25, 23, 0.08);
+  --shadow-lg: 0 14px 36px rgba(28, 25, 23, 0.12);
+
+  /* Tipografia local de alta legibilidade e personalidade editorial */
+  --font-serif: Georgia, 'Times New Roman', Times, serif;
+  --font-sans: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+
+  /* Escala tipográfica fluida */
+  --text-xs: 0.8125rem;   /* 13px */
+  --text-sm: 0.9375rem;   /* 15px */
+  --text-base: 1.0625rem; /* 17px */
+  --text-lg: 1.1875rem;   /* 19px */
+  --text-xl: 1.375rem;    /* 22px */
+  --text-2xl: clamp(1.5rem, 2.2vw, 1.875rem);
+  --text-3xl: clamp(1.85rem, 3vw, 2.5rem);
+  --text-4xl: clamp(2.15rem, 4vw, 3.125rem);
+
+  /* Espaçamento e layout */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+
+  --container-max: 1180px;
+  --reading-max: 66ch;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 16px;
+  --header-height: 78px;
+}

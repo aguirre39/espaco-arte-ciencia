@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.espacoarteciencia.com.br/sitemap.xml

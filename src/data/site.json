@@ -1,0 +1,150 @@
+{
+  "nome": "Espaço Arte-Ciência",
+  "sigla": "EAC",
+  "slogan": "Lugar da Psicologia Analítica de C. G. Jung e M.-L. von Franz",
+  "missao": "Nosso trabalho, desenvolvido há quatro décadas, objetiva compartilhar a produção intelectual e divulgar a visão de mundo de Carl Gustav Jung e Marie-Louise von Franz.",
+  "dominio": "https://www.espacoarteciencia.com.br",
+  "idioma": "pt-BR",
+  "fusoPadrao": "America/Sao_Paulo",
+  "dataBaseRevisao": "2026-11-16",
+  "localidade": {
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "pais": "Brasil",
+    "observacao": "Sede institucional de origem em Porto Alegre/RS, sem endereço físico de atendimento público divulgado nas páginas consultadas."
+  },
+  "contatos": {
+    "whatsappPrincipal": {
+      "rotulo": "(51) 98175-1727",
+      "numeroE164": "5551981751727",
+      "urlBase": "https://wa.me/5551981751727"
+    },
+    "whatsappSecundario": {
+      "rotulo": "(51) 99247-7179",
+      "numeroE164": "5551992477179",
+      "urlBase": "https://wa.me/5551992477179"
+    },
+    "email": "eacpoars@espacoarteciencia.com.br",
+    "mensagensPadrao": {
+      "geral": "Olá! Conheci o Espaço Arte-Ciência e gostaria de informações sobre os próximos seminários.",
+      "eventoTemplate": "Olá! Tenho interesse no seminário {titulo}, previsto para {data}. Poderiam informar os detalhes e como me inscrever?",
+      "eventoPassadoTemplate": "Olá! Vi no site o registro do seminário {titulo} ({data}) e gostaria de saber sobre próximas edições ou atividades relacionadas.",
+      "analiseIndividual": "Olá! Conheci o Espaço Arte-Ciência pelo site e gostaria de informações sobre encaminhamento para Análise Junguiana."
+    }
+  },
+  "navegacaoPrincipal": [
+    {
+      "rotulo": "Início",
+      "href": "/"
+    },
+    {
+      "rotulo": "Atividades do Espaço",
+      "href": "/cursos-e-seminarios/"
+    },
+    {
+      "rotulo": "Nossa História",
+      "href": "/nossa-historia/"
+    },
+    {
+      "rotulo": "Quem Somos",
+      "href": "/quem-somos-nos/"
+    },
+    {
+      "rotulo": "Análise Junguiana",
+      "href": "/psicoterapia-junguiana-1/"
+    }
+  ],
+  "navegacaoSecundaria": [
+    {
+      "rotulo": "Formação",
+      "href": "/formacao/",
+      "urlOriginal": "https://www.espacoarteciencia.com.br/formacao",
+      "descricao": "Programa de Formação de Analista Junguiano (presencial e a distância)."
+    },
+    {
+      "rotulo": "Textos",
+      "href": "/textos/",
+      "urlOriginal": "https://www.espacoarteciencia.com.br/textos",
+      "descricao": "Artigos, traduções e reflexões fundamentadas na Psicologia Analítica."
+    },
+    {
+      "rotulo": "Livros / DVDs",
+      "href": "/livros-dvds/",
+      "urlOriginal": "https://www.espacoarteciencia.com.br/livros-dvds",
+      "descricao": "Publicações e materiais audiovisuais divulgados pelo Espaço."
+    },
+    {
+      "rotulo": "Galeria",
+      "href": "/galeria/",
+      "urlOriginal": "https://www.espacoarteciencia.com.br/galeria",
+      "descricao": "Registros visuais de vivências, ateliês e expressões simbólicas."
+    },
+    {
+      "rotulo": "Contato",
+      "href": "/contato/",
+      "urlOriginal": "https://www.espacoarteciencia.com.br/contato",
+      "descricao": "Canais diretos de atendimento por WhatsApp e e-mail institucional."
+    }
+  ],
+  "citacoes": [
+    {
+      "autor": "C. G. Jung",
+      "obra": "Civilização em Transição",
+      "texto": "O terapeuta não pode prescindir de uma discussão com o seu tempo por mais que o alarido político, o embuste da propaganda e o grito dos demagogos lhe causem repugnância."
+    },
+    {
+      "autor": "C. G. Jung",
+      "obra": "Resposta a Jó",
+      "texto": "O conceito de 'físico' não constitui o único critério de uma verdade, pois há também verdades psíquicas que não se podem explicar, demonstrar ou negar sob o ponto de vista físico."
+    },
+    {
+      "autor": "Marie-Louise von Franz",
+      "obra": "Psicoterapia",
+      "texto": "Quando uma experiência numinosa e curativa se dá durante a análise, é obrigação do analista ajudar a evitar as possíveis consequências negativas, a possessão e a inflação."
+    },
+    {
+      "autor": "Barbara Hannah",
+      "obra": "Encounters with the Soul",
+      "texto": "O que sabemos sobre nós mesmos não é tudo que somos. A vida nos ensina todos os dias, desde que observemos cuidadosamente a nós mesmos e o que nos acontece. Por que perdi, justamente o trem que deveria pegar?"
+    }
+  ],
+  "comoParticipar": [
+    {
+      "passo": "1",
+      "titulo": "Consulte a programação",
+      "descricao": "Verifique os seminários e encontros previstos na central de Atividades do Espaço, conferindo os temas de estudo na perspectiva de C. G. Jung e Marie-Louise von Franz."
+    },
+    {
+      "passo": "2",
+      "titulo": "Converse com a equipe pelo WhatsApp",
+      "descricao": "Entre em contato pelo WhatsApp oficial informando o seminário de seu interesse para confirmar a disponibilidade de inscrições, o formato, o horário e o investimento vigente."
+    },
+    {
+      "passo": "3",
+      "titulo": "Receba as orientações de inscrição",
+      "descricao": "Conforme procedimento informado pela instituição, a inscrição em seminário avulso requer antecedência mínima de 48 horas da data do encontro para o envio das instruções e do link de participação."
+    }
+  ],
+  "perguntasFrequentes": [
+    {
+      "pergunta": "Como funcionam as inscrições para os seminários do Espaço Arte-Ciência?",
+      "resposta": "As inscrições e solicitações de informações são realizadas diretamente com a equipe pelos canais oficiais de WhatsApp ((51) 98175-1727 ou (51) 99247-7179) ou pelo e-mail eacpoars@espacoarteciencia.com.br. Para seminários avulsos com envio de link de participação, a instituição orienta que a inscrição seja efetuada com no mínimo 48 horas de antecedência da data do evento."
+    },
+    {
+      "pergunta": "Qual é o investimento para participar dos seminários?",
+      "resposta": "Os valores vigentes para seminários avulsos ou pacotes semestrais devem ser consultados diretamente pelo WhatsApp com a equipe do Espaço Arte-Ciência. Como a página original apresentava tabelas com referência a ciclos anteriores, o site não exibe valores sem confirmação atualizada."
+    },
+    {
+      "pergunta": "Qual é a diferença entre participar dos seminários e realizar Análise Junguiana?",
+      "resposta": "Os seminários e cursos são atividades culturais e de estudo teórico-simbólico dedicadas à discussão da obra de Carl Gustav Jung e Marie-Louise von Franz. Já a Análise Junguiana é um processo psicoterapêutico e analítico individual voltado ao diálogo entre a consciência do eu e o Si-mesmo, por meio da análise de sonhos, atitude reflexiva e imaginação ativa."
+    },
+    {
+      "pergunta": "Quem pode participar das atividades e do Programa de Formação?",
+      "resposta": "As atividades culturais e seminários destinam-se a pessoas interessadas em compreender a participação do inconsciente na ampliação da consciência. Já o Curso de Formação em Psicologia Junguiana é voltado especificamente a graduados de todas as áreas do conhecimento (bacharelado, licenciatura plena ou validação equivalente), mediante critérios pedagógicos próprios da instituição. Para confirmar requisitos específicos de cada seminário, consulte a equipe pelo WhatsApp."
+    },
+    {
+      "pergunta": "Os seminários oferecem certificado, gravação ou têm horário fixo?",
+      "resposta": "Detalhes operacionais específicos de cada encontro, como horário de início e término, modalidade de transmissão, disponibilidade de gravação ou emissão de declaração/certificado, não constam de forma padronizada nas páginas públicas consultadas e devem ser confirmados diretamente pelo WhatsApp antes da inscrição."
+    }
+  ]
+}

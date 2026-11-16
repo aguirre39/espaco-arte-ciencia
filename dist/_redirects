@@ -1,0 +1,9 @@
+# Redirecionamentos 301 individuais (sem cadeias) para URLs limpas
+/cursos-e-seminários    /cursos-e-seminarios/    301
+/cursos-e-seminários/   /cursos-e-seminarios/    301
+/nossa-história         /nossa-historia/         301
+/nossa-história/        /nossa-historia/         301
+/quem-somos-nós         /quem-somos-nos/         301
+/quem-somos-nós/        /quem-somos-nos/         301
+/formação               /formacao/               301
+/formação/              /formacao/               301

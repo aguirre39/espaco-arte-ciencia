@@ -1,0 +1,314 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "timestamp": "2026-11-16T16:17:05.526Z",
+  "nodeVersion": "v24.22.1",
+  "platform": "win32 x64",
+  "contrastChecks": [
+    {
+      "name": "Texto principal (#1C1917) sobre fundo marfim (#FAF6F0)",
+      "fg": "#1C1917",
+      "bg": "#FAF6F0",
+      "min": 4.5,
+      "ratio": 16.24,
+      "passed": true
+    },
+    {
+      "name": "Texto secundário (#443E38) sobre fundo marfim (#FAF6F0)",
+      "fg": "#443E38",
+      "bg": "#FAF6F0",
+      "min": 4.5,
+      "ratio": 9.79,
+      "passed": true
+    },
+    {
+      "name": "Texto apoio (#5C534A) sobre fundo marfim (#FAF6F0)",
+      "fg": "#5C534A",
+      "bg": "#FAF6F0",
+      "min": 4.5,
+      "ratio": 6.99,
+      "passed": true
+    },
+    {
+      "name": "Destaque/Link laranja escuro (#9E3E0E) sobre marfim (#FAF6F0)",
+      "fg": "#9E3E0E",
+      "bg": "#FAF6F0",
+      "min": 4.5,
+      "ratio": 6.19,
+      "passed": true
+    },
+    {
+      "name": "Destaque/Link laranja escuro (#9E3E0E) sobre branco (#FFFFFF)",
+      "fg": "#9E3E0E",
+      "bg": "#FFFFFF",
+      "min": 4.5,
+      "ratio": 6.67,
+      "passed": true
+    },
+    {
+      "name": "Botão primário branco (#FFFFFF) sobre laranja escuro (#9E3E0E)",
+      "fg": "#FFFFFF",
+      "bg": "#9E3E0E",
+      "min": 4.5,
+      "ratio": 6.67,
+      "passed": true
+    },
+    {
+      "name": "Botão WhatsApp branco (#FFFFFF) sobre verde escuro (#1B5E20)",
+      "fg": "#FFFFFF",
+      "bg": "#1B5E20",
+      "min": 4.5,
+      "ratio": 7.87,
+      "passed": true
+    },
+    {
+      "name": "Rodapé texto claro (#FAF6F0) sobre carvão (#1C1917)",
+      "fg": "#FAF6F0",
+      "bg": "#1C1917",
+      "min": 4.5,
+      "ratio": 16.24,
+      "passed": true
+    }
+  ],
+  "pagesChecked": [
+    {
+      "file": "404.html",
+      "title": "Página não encontrada (404) | Espaço Arte-Ciência",
+      "canonical": "https://www.espacoarteciencia.com.br/404.html",
+      "h1Count": 1,
+      "imgCount": 1
+    },
+    {
+      "file": "contato/index.html",
+      "title": "Contato | Espaço Arte-Ciência",
+      "canonical": "https://www.espacoarteciencia.com.br/contato/",
+      "h1Count": 1,
+      "imgCount": 1
+    },
+    {
+      "file": "cursos-e-seminarios/index.html",
+      "title": "Atividades do Espaço: Cursos e Seminários | Espaço Arte-Ciência",
+      "canonical": "https://www.espacoarteciencia.com.br/cursos-e-seminarios/",
+      "h1Count": 1,
+      "imgCount": 1
+    },
+    {
+      "file": "formacao/index.html",
+      "title": "Formação | Espaço Arte-Ciência",
+      "canonical": "https://www.espacoarteciencia.com.br/formacao/",
+      "h1Count": 1,
+      "imgCount": 1
+    },
+    {
+      "file": "galeria/index.html",
+      "title": "Galeria | Espaço Arte-Ciência",
+      "canonical": "https://www.espacoarteciencia.com.br/galeria/",
+      "h1Count": 1,
+      "imgCount": 1
+    },
+    {
+      "file": "index.html",
+      "title": "Espaço Arte-Ciência | Seminários e Psicologia Analítica de Jung e von Franz",
+      "canonical": "https://www.espacoarteciencia.com.br/",
+      "h1Count": 1,
+      "imgCount": 10
+    },
+    {
+      "file": "livros-dvds/index.html",
+      "title": "Livros / DVDs | Espaço Arte-Ciência",
+      "canonical": "https://www.espacoarteciencia.com.br/livros-dvds/",
+      "h1Count": 1,
+      "imgCount": 1
+    },
+    {
+      "file": "nossa-historia/index.html",
+      "title": "Nossa História | Espaço Arte-Ciência",
+      "canonical": "https://www.espacoarteciencia.com.br/nossa-historia/",
+      "h1Count": 1,
+      "imgCount": 1
+    },
+    {
+      "file": "psicoterapia-junguiana-1/index.html",
+      "title": "Análise Junguiana | Espaço Arte-Ciência",
+      "canonical": "https://www.espacoarteciencia.com.br/psicoterapia-junguiana-1/",
+      "h1Count": 1,
+      "imgCount": 1
+    },
+    {
+      "file": "quem-somos-nos/index.html",
+      "title": "Quem Somos | Equipe do Espaço Arte-Ciência",
+      "canonical": "https://www.espacoarteciencia.com.br/quem-somos-nos/",
+      "h1Count": 1,
+      "imgCount": 7
+    },
+    {
+      "file": "seminarios/iii-mitos-de-criacao-de-marie-louise-von-franz/index.html",
+      "title": "III Mitos de Criação de Marie-Louise von Franz (07 de novembro de 2026) | Espaço Arte-Ciência",
+      "canonical": "https://www.espacoarteciencia.com.br/seminarios/iii-mitos-de-criacao-de-marie-louise-von-franz/",
+      "h1Count": 1,
+      "imgCount": 1
+    },
+    {
+      "file": "seminarios/o-tempo-na-perspectiva-de-jung-e-von-franz/index.html",
+      "title": "O Tempo na Perspectiva de Jung e Von Franz (21 de novembro de 2026) | Espaço Arte-Ciência",
+      "canonical": "https://www.espacoarteciencia.com.br/seminarios/o-tempo-na-perspectiva-de-jung-e-von-franz/",
+      "h1Count": 1,
+      "imgCount": 1
+    },
+    {
+      "file": "textos/index.html",
+      "title": "Textos | Espaço Arte-Ciência",
+      "canonical": "https://www.espacoarteciencia.com.br/textos/",
+      "h1Count": 1,
+      "imgCount": 1
+    }
+  ],
+  "agendaSimulationTests": [
+    {
+      "referenceDate": "2026-11-25",
+      "homeShowsEmptySchedulePrompt": true,
+      "pastSeminarExcludedFromHome": true,
+      "passed": true
+    },
+    {
+      "referenceDate": "2026-11-16",
+      "upcomingNov21ShownOnHome": true,
+      "pastNov07ExcludedFromHome": true,
+      "passed": true
+    }
+  ],
+  "httpProbes": [
+    {
+      "path": "/",
+      "status": 200,
+      "expectedStatus": 200,
+      "location": null,
+      "contentType": "text/html; charset=utf-8",
+      "bodyBytes": 82764,
+      "passed": true
+    },
+    {
+      "path": "/cursos-e-seminarios/",
+      "status": 200,
+      "expectedStatus": 200,
+      "location": null,
+      "contentType": "text/html; charset=utf-8",
+      "bodyBytes": 46106,
+      "passed": true
+    },
+    {
+      "path": "/nossa-historia/",
+      "status": 200,
+      "expectedStatus": 200,
+      "location": null,
+      "contentType": "text/html; charset=utf-8",
+      "bodyBytes": 41398,
+      "passed": true
+    },
+    {
+      "path": "/quem-somos-nos/",
+      "status": 200,
+      "expectedStatus": 200,
+      "location": null,
+      "contentType": "text/html; charset=utf-8",
+      "bodyBytes": 60702,
+      "passed": true
+    },
+    {
+      "path": "/psicoterapia-junguiana-1/",
+      "status": 200,
+      "expectedStatus": 200,
+      "location": null,
+      "contentType": "text/html; charset=utf-8",
+      "bodyBytes": 41600,
+      "passed": true
+    },
+    {
+      "path": "/seminarios/o-tempo-na-perspectiva-de-jung-e-von-franz/",
+      "status": 200,
+      "expectedStatus": 200,
+      "location": null,
+      "contentType": "text/html; charset=utf-8",
+      "bodyBytes": 43861,
+      "passed": true
+    },
+    {
+      "path": "/seminarios/iii-mitos-de-criacao-de-marie-louise-von-franz/",
+      "status": 200,
+      "expectedStatus": 200,
+      "location": null,
+      "contentType": "text/html; charset=utf-8",
+      "bodyBytes": 43391,
+      "passed": true
+    },
+    {
+      "path": "/sitemap.xml",
+      "status": 200,
+      "expectedStatus": 200,
+      "location": null,
+      "contentType": "application/xml; charset=utf-8",
+      "bodyBytes": 1025,
+      "passed": true
+    },
+    {
+      "path": "/robots.txt",
+      "status": 200,
+      "expectedStatus": 200,
+      "location": null,
+      "contentType": "text/plain; charset=utf-8",
+      "bodyBytes": 82,
+      "passed": true
+    },
+    {
+      "path": "/cursos-e-semin%C3%A1rios",
+      "status": 301,
+      "expectedStatus": 301,
+      "location": "/cursos-e-seminarios/",
+      "contentType": null,
+      "bodyBytes": 0,
+      "passed": true
+    },
+    {
+      "path": "/nossa-hist%C3%B3ria",
+      "status": 301,
+      "expectedStatus": 301,
+      "location": "/nossa-historia/",
+      "contentType": null,
+      "bodyBytes": 0,
+      "passed": true
+    },
+    {
+      "path": "/quem-somos-n%C3%B3s",
+      "status": 301,
+      "expectedStatus": 301,
+      "location": "/quem-somos-nos/",
+      "contentType": null,
+      "bodyBytes": 0,
+      "passed": true
+    },
+    {
+      "path": "/rota-inexistente-teste-404",
+      "status": 404,
+      "expectedStatus": 404,
+      "location": null,
+      "contentType": "text/html; charset=utf-8",
+      "bodyBytes": 36922,
+      "passed": true
+    }
+  ],
+  "budgets": {
+    "cssRawBytes": 23681,
+    "cssGzipBytes": 4586,
+    "cssBudgetMaxBytes": 35840,
+    "jsRawBytes": 4473,
+    "jsGzipBytes": 1523,
+    "jsBudgetMaxBytes": 40960,
+    "homeHtmlRawBytes": 82764,
+    "homeHtmlGzipBytes": 16845,
+    "lcpImageAvifBytes": 34081,
+    "lcpImageJpgBytes": 37910,
+    "firstFoldTransferAvifBytes": 52449,
+    "firstFoldTransferJpgBytes": 56278,
+    "firstFoldBudgetMaxBytes": 512000
+  }
+}

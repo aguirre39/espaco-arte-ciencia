@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 76" width="460" height="76" role="img" aria-labelledby="logo-horiz-title logo-horiz-desc">
+  <title id="logo-horiz-title">Espaço Arte-Ciência</title>
+  <desc id="logo-horiz-desc">Marca redesenhada do Espaço Arte-Ciência: escaravelho estilizado voltado para a direita sustentando o disco solar escarlate, acompanhado do nome institucional.</desc>
+  <g transform="translate(6, 10)">
+    <!-- Traseira e pernas posteriores/médias do escaravelho (orientado para a direita, fiel à marca histórica) -->
+    <g fill="none" stroke="#1C1917" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+      <!-- Pernas posteriores (esquerda) -->
+      <path d="M16 17 L7 12 L2 14" />
+      <path d="M16 39 L7 44 L2 42" />
+      <!-- Pernas médias -->
+      <path d="M27 14 L22 6 L16 5" />
+      <path d="M27 42 L22 50 L16 51" />
+      <!-- Pernas anteriores (direita, abraçando o disco solar) -->
+      <path d="M41 16 L51 11 L59 17" />
+      <path d="M41 40 L51 45 L59 39" />
+    </g>
+    <!-- Corpo do escaravelho (élitros e pronoto) -->
+    <ellipse cx="26" cy="28" rx="16" ry="13.5" fill="#1C1917" />
+    <!-- Divisão sutil entre pronoto e élitros em marfim quente -->
+    <path d="M31 15.5 C29 21, 29 35, 31 40.5" fill="none" stroke="#FAF6F0" stroke-width="1.4" stroke-linecap="round" />
+    <line x1="10.5" y1="28" x2="29.5" y2="28" stroke="#FAF6F0" stroke-width="1.3" stroke-linecap="round" />
+    <!-- Cabeça/clípeo voltado para o disco solar -->
+    <path d="M40 22 C45 23, 46 33, 40 34 Z" fill="#1C1917" />
+    <!-- Disco solar escarlate/terracota (elemento central original entre as patas dianteiras) -->
+    <circle cx="55.5" cy="28" r="7.5" fill="#C62E26" />
+    <circle cx="55.5" cy="28" r="7.5" fill="none" stroke="#9E4311" stroke-width="1" opacity="0.4" />
+  </g>
+  <!-- Tipografia editorial -->
+  <g transform="translate(82, 0)">
+    <text x="0" y="38" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-weight="700" letter-spacing="0.04em" fill="#1C1917">ESPAÇO ARTE-CIÊNCIA</text>
+    <line x1="1" y1="47" x2="364" y2="47" stroke="#B84B14" stroke-width="1.2" opacity="0.45" />
+    <text x="1" y="63" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" letter-spacing="0.07em" fill="#8F380C">PSICOLOGIA ANALÍTICA · C. G. JUNG E M.-L. VON FRANZ</text>
+  </g>
+</svg>
