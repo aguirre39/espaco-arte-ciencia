@@ -284,6 +284,9 @@ Sitemap: ${site.dominio}/sitemap.xml
 `;
   fs.writeFileSync(path.join(DIST_DIR, "_headers"), headersContent, "utf8");
 
+  // 10. Desativar Jekyll no GitHub Pages para entrega estática pura
+  fs.writeFileSync(path.join(DIST_DIR, ".nojekyll"), "", "utf8");
+
   return {
     referenceDateIso,
     seminariosCount: seminarios.length,
