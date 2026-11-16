@@ -633,6 +633,7 @@
   display: grid;
   grid-template-columns: 1fr;
   gap: var(--space-6);
+  align-items: start;
 }
 
 @media (min-width: 640px) {
@@ -655,6 +656,7 @@
   box-shadow: var(--shadow-sm);
   display: flex;
   flex-direction: column;
+  align-self: start;
 }
 
 .analyst-card__media {
@@ -681,7 +683,6 @@
   padding: var(--space-5);
   display: flex;
   flex-direction: column;
-  flex-grow: 1;
 }
 
 .analyst-card__role {
@@ -701,12 +702,11 @@
 .analyst-card__bio {
   font-size: var(--text-sm);
   color: var(--color-text-secondary);
-  margin-bottom: var(--space-4);
-  flex-grow: 1;
+  margin-bottom: var(--space-3);
 }
 
 .analyst-card__expand {
-  margin-top: auto;
+  margin-top: var(--space-2);
   border-top: 1px solid var(--color-border);
   padding-top: var(--space-3);
 }
