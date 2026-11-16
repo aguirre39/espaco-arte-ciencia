@@ -1,7 +1,7 @@
 {
   "status": "PASS",
   "errors": [],
-  "timestamp": "2026-11-16T16:34:01.305Z",
+  "timestamp": "2026-11-16T16:41:00.625Z",
   "nodeVersion": "v24.22.1",
   "platform": "win32 x64",
   "contrastChecks": [
@@ -184,7 +184,7 @@
       "expectedStatus": 200,
       "location": null,
       "contentType": "text/html; charset=utf-8",
-      "bodyBytes": 82764,
+      "bodyBytes": 83303,
       "passed": true
     },
     {
@@ -193,7 +193,7 @@
       "expectedStatus": 200,
       "location": null,
       "contentType": "text/html; charset=utf-8",
-      "bodyBytes": 46106,
+      "bodyBytes": 46645,
       "passed": true
     },
     {
@@ -202,7 +202,7 @@
       "expectedStatus": 200,
       "location": null,
       "contentType": "text/html; charset=utf-8",
-      "bodyBytes": 41398,
+      "bodyBytes": 41937,
       "passed": true
     },
     {
@@ -211,7 +211,7 @@
       "expectedStatus": 200,
       "location": null,
       "contentType": "text/html; charset=utf-8",
-      "bodyBytes": 60702,
+      "bodyBytes": 61241,
       "passed": true
     },
     {
@@ -220,7 +220,7 @@
       "expectedStatus": 200,
       "location": null,
       "contentType": "text/html; charset=utf-8",
-      "bodyBytes": 41600,
+      "bodyBytes": 42139,
       "passed": true
     },
     {
@@ -229,7 +229,7 @@
       "expectedStatus": 200,
       "location": null,
       "contentType": "text/html; charset=utf-8",
-      "bodyBytes": 43861,
+      "bodyBytes": 44400,
       "passed": true
     },
     {
@@ -238,7 +238,7 @@
       "expectedStatus": 200,
       "location": null,
       "contentType": "text/html; charset=utf-8",
-      "bodyBytes": 43391,
+      "bodyBytes": 43930,
       "passed": true
     },
     {
@@ -292,23 +292,23 @@
       "expectedStatus": 404,
       "location": null,
       "contentType": "text/html; charset=utf-8",
-      "bodyBytes": 36922,
+      "bodyBytes": 37461,
       "passed": true
     }
   ],
   "budgets": {
-    "cssRawBytes": 23681,
-    "cssGzipBytes": 4586,
+    "cssRawBytes": 24220,
+    "cssGzipBytes": 4681,
     "cssBudgetMaxBytes": 35840,
     "jsRawBytes": 4473,
     "jsGzipBytes": 1523,
     "jsBudgetMaxBytes": 40960,
-    "homeHtmlRawBytes": 82764,
-    "homeHtmlGzipBytes": 16845,
+    "homeHtmlRawBytes": 83303,
+    "homeHtmlGzipBytes": 16946,
     "lcpImageAvifBytes": 34081,
     "lcpImageJpgBytes": 37910,
-    "firstFoldTransferAvifBytes": 52449,
-    "firstFoldTransferJpgBytes": 56278,
+    "firstFoldTransferAvifBytes": 52550,
+    "firstFoldTransferJpgBytes": 56379,
     "firstFoldBudgetMaxBytes": 512000
   }
 }
